@@ -5,6 +5,11 @@ for assisting multi-agent exploration. Although traditional landmark complex exp
 a policy for exploration and a three-stage curriculum to help mitigate reward sparsity. This Github repository includes all necessary codes to reproduce our result in [Multi-Agent Exploration of an Unknown Sparse Landmark Complex via
 Deep Reinforcement Learning]().
 
+<p alilgn="center">
+  <img src="https://user-images.githubusercontent.com/48639163/185293301-3ecce675-d87b-45a2-9ccd-f6118a5c4dfd.gif" />
+</p>
+
+
 ## Requirements
 - Unity 2020.3.35
 - ML-agents Release 19
